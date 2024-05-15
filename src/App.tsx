@@ -20,7 +20,7 @@ function App() {
       <Header />
       <div className="form-section">
         <div className="center-logo-wrapper">
-          <img alt="logo" src="/Wendys_logo.jpg" />
+          <img alt="logo" src="/krishpy.jpeg" />
         </div>
         <div className="form-section-inner">{forms}</div>
       </div>
